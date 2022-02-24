@@ -3,6 +3,6 @@ Simple UDP Port scanner written in C++, tested on Debian systems, untested on Ce
 
 
 
-Got bored and iv seen so many tcp based scanners figured i'd try something different from others
+Got bored and iv seen so many tcp based scanners figured i'd try something different
 
 Discord: HatedCode#8628
